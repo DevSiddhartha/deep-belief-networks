@@ -1,4 +1,4 @@
-import numpy as np
+oimport numpy as np
 
 class DBN:
   def __init__(self, num_visible, hidden_layers,options, learning_rate = 0.1):

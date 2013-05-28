@@ -25,13 +25,6 @@ To train DBNs and add continous units for RBMs I use Bengio et. al. work "Greedy
 Below is Edwin Chen's wonderful README on how to use RBMs
 An example application is already added in this repository.
 
-   make img
-
-Will output some handwriting generations
-
-   make cont
-Will print out some data similar to synthetically generated data.
-
 # How to Use
 
 First, initialize an RBM with the desired number of visible and hidden units.
