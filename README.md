@@ -22,10 +22,12 @@ hidden units
 To train DBNs and add continous units for RBMs I use Bengio et. al. work "Greedy Layer-Wise Training of Deep Networks" (books.nips.cc/papers/files/nips19/NIPS2006_0739.pdf)
 
 An example application is already added in this repository.
+ 
    make img
 
 Will output some handwriting generations
-     make cont
+
+   make cont
 
 Will print out some data similar to synthetically generated data.
 
